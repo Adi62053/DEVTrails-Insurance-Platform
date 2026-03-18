@@ -74,7 +74,9 @@ An AI‑driven platform that protects food delivery gig workers from income loss
 - [ ] Final 5‑minute demo video and pitch deck.
 
 ## Team Members
-- [Your Name] – [Your Role]
+- ADITYA KUMAR - TEAM LEADER
+- SOURABH YADAV - TECH SUPPORT
+-
 
 ## Links
 - **GitHub Repository:** [https://github.com/Adi62053/DEVTrails-Insurance-Platform](https://github.com/Adi62053/DEVTrails-Insurance-Platform)
