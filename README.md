@@ -83,7 +83,7 @@ An AI‑driven platform that protects food delivery gig workers from income loss
 
 ## Links
 - **GitHub Repository:** [https://github.com/Adi62053/DEVTrails-Insurance-Platform](https://github.com/Adi62053/DEVTrails-Insurance-Platform)
-- **Phase 1 Demo Video:** [Add your video link here]
+- **Phase 1 Demo Video:** https://youtu.be/fiWG0MqRTC4?si=z6hCnnMITFG-cWXi
 
 ## Setup Instructions (for developers)
 
