@@ -73,10 +73,13 @@ An AI‑driven platform that protects food delivery gig workers from income loss
 - [ ] Instant payout integration (mock payment gateway).
 - [ ] Final 5‑minute demo video and pitch deck.
 
+## TRAM NAME
+- CODE CORTEX
 ## Team Members
 - ADITYA KUMAR - TEAM LEADER
-- SOURABH YADAV - TECH SUPPORT
--
+- Saurabh Yadav - TECH SUPPORT
+-kapa Anjali-Frontend Developer & Documentation Lead
+-SHAIK MASTAN SAHEB - ML Engineer
 
 ## Links
 - **GitHub Repository:** [https://github.com/Adi62053/DEVTrails-Insurance-Platform](https://github.com/Adi62053/DEVTrails-Insurance-Platform)
